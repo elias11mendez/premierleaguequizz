@@ -1,9 +1,15 @@
-import { Link } from "react-router-dom";
+import { Link} from "react-router-dom";
+import {  useNavigate } from "react-router-dom";
 
 const Selection = () => {
+  const navigate = useNavigate();
+  const back = () => {
+    navigate("/");
+  }
   return (
-    <>
-      <div className="flex justify-center items-center flex-col ">
+    <div className="flex justify-center flex-wrap mt-5">
+      <button onClick={back} className=" bg-purple-900 w-60 h-10 rounded-md hover:bg-white hover:text-black">Atras</button>
+      <div className="flex justify-center items-center flex-col mt-10">
         <h1 className="text-6xl font-bold text-center text flex justify-center">
           BIENVENIDO
         </h1>
@@ -37,29 +43,24 @@ const Selection = () => {
               src="https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg"
             />
           </Link>
-          <Link to={'/chelsea'}>
+          <Link to={"/chelsea"}>
             <img
               className="w-80 h-48"
               src="https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg"
             />
           </Link>
-          <div className="flex justify-center">
-          <Link to={'/tot'}>
-            <img className="w-52 h-52 rounded-full"
-              src="https://logos-world.net/wp-content/uploads/2020/06/Tottenham-Hotspur-emblem.png"
+          <Link to={"/tot"}>
+            <img
+              className="w-80 h-48"
+              src="https://upload.wikimedia.org/wikipedia/en/0/05/Spurs_2017_badge.svg"
             />
           </Link>
-          </div>
-          <Link to={'/united'}>
-            <img
-              className="w-52 ml-16"
-              
-              src="https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
-            />
+          <Link to={"/united"}>
+            <img src="https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg" />
           </Link>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 export default Selection;

@@ -10,7 +10,7 @@ const Welcome = () => {
         BIENVENIDO
       </h1>
       <p className="text-2xl mt-20 font-semibold text-center">
-        A ESTE QUIZZ DEL BIX SIX
+        A ESTE QUIZZ DEL BIG SIX
       </p>
       <p className="text-2xl mt-10">Clic en Iniciar... </p>
       <div className="m-10">
