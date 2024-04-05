@@ -1,0 +1,55 @@
+{
+    "preguntas": [
+      {
+        "question": "¿Quién es conocido como el 'Rey del Teatro de los Sueños'?",
+        "options": ["Cristiano Ronaldo", "Wayne Rooney", "Eric Cantona"],
+        "correctAnswer": "Cristiano Ronaldo"
+      },
+      {
+        "question": "¿Cuántas veces ha ganado el Manchester United la Copa de Europa/Liga de Campeones de la UEFA hasta el momento?",
+        "options": ["2", "3", "4"],
+        "correctAnswer": "3"
+      },
+      {
+        "question": "¿Cuál es el apodo de Old Trafford, el estadio del Manchester United?",
+        "options": ["The Cathedral", "The Theater of Dreams", "The Fortress"],
+        "correctAnswer": "The Theater of Dreams"
+      },
+      {
+        "question": "¿Quién es el máximo goleador de la historia del Manchester United en competiciones europeas?",
+        "options": ["Wayne Rooney", "Ruud van Nistelrooy", "Ryan Giggs"],
+        "correctAnswer": "Wayne Rooney"
+      },
+      {
+        "question": "¿En qué año el Manchester United ganó su primer título de la Premier League?",
+        "options": ["1992-1993", "1993-1994", "1994-1995"],
+        "correctAnswer": "1992-1993"
+      },
+      {
+        "question": "¿Cuál es el lema del Manchester United Football Club?",
+        "options": ["Glory Glory Man United", "United We Stand", "Red Devils Forever"],
+        "correctAnswer": "Glory Glory Man United"
+      },
+      {
+        "question": "¿Quién fue el primer jugador del Manchester United en ganar el premio PFA Players' Player of the Year?",
+        "options": ["Eric Cantona", "Roy Keane", "George Best"],
+        "correctAnswer": "Eric Cantona"
+      },
+      {
+        "question": "¿Quién fue el entrenador del Manchester United en la temporada 1998-1999 cuando ganaron el triplete (Premier League, FA Cup, Liga de Campeones de la UEFA)?",
+        "options": ["Sir Alex Ferguson", "Brian Kidd", "Steve McClaren"],
+        "correctAnswer": "Sir Alex Ferguson"
+      },
+      {
+        "question": "¿En qué año el Manchester United ganó su primer título de la Liga de Campeones de la UEFA?",
+        "options": ["1968", "1999", "2008"],
+        "correctAnswer": "1968"
+      },
+      {
+        "question": "¿Cuál es el año de fundación del Manchester United Football Club?",
+        "options": ["1878", "1892", "1902"],
+        "correctAnswer": "1878"
+      }
+    ]
+  }
+  

@@ -1,0 +1,55 @@
+{
+    "preguntas": [
+      {
+        "question": "¿En qué año fue fundado el Arsenal Football Club?",
+        "options": ["1886", "1892", "1905"],
+        "correctAnswer": "1886"
+      },
+      {
+        "question": "¿Quién es el máximo goleador de la historia del Arsenal?",
+        "options": ["Thierry Henry", "Ian Wright", "Cliff Bastin"],
+        "correctAnswer": "Thierry Henry"
+      },
+      {
+        "question": "¿Cuántas veces ha ganado el Arsenal la Premier League hasta el momento?",
+        "options": ["11", "12", "13"],
+        "correctAnswer": "13"
+      },
+      {
+        "question": "¿Cuál es el apodo del estadio donde juega el Arsenal FC?",
+        "options": ["Old Trafford", "Emirates Stadium", "Anfield"],
+        "correctAnswer": "Emirates Stadium"
+      },
+      {
+        "question": "¿Quién es el actual entrenador del Arsenal?",
+        "options": ["Mikel Arteta", "Unai Emery", "Arsène Wenger"],
+        "correctAnswer": "Mikel Arteta"
+      },
+      {
+        "question": "¿Cuál fue el año en que el Arsenal ganó su primer título de la Premier League?",
+        "options": ["1996", "1998", "2000"],
+        "correctAnswer": "1998"
+      },
+      {
+        "question": "¿Cuál es el lema del Arsenal Football Club?",
+        "options": ["Victoria Concordia Crescit", "Mind the Gap", "Gooners Forever"],
+        "correctAnswer": "Victoria Concordia Crescit"
+      },
+      {
+        "question": "¿Qué jugador del Arsenal ha ganado el premio PFA Player of the Year más recientemente?",
+        "options": ["Thierry Henry", "Robin van Persie", "Mesut Özil"],
+        "correctAnswer": "Thierry Henry"
+      },
+      {
+        "question": "¿Quién fue el capitán del Arsenal durante la temporada en que ganaron la Premier League invictos en 2003-2004?",
+        "options": ["Patrick Vieira", "Tony Adams", "Sol Campbell"],
+        "correctAnswer": "Patrick Vieira"
+      },
+      {
+        "question": "¿En qué año llegó el Arsenal a la final de la Liga de Campeones de la UEFA por última vez?",
+        "options": ["2004", "2006", "2008"],
+        "correctAnswer": "2006"
+      }
+    ]
+  }
+  

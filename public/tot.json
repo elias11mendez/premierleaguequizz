@@ -1,0 +1,55 @@
+{
+    "preguntas": [
+      {
+        "question": "¿Cuál es el apodo del Tottenham Hotspur Football Club?",
+        "options": ["Spurs", "Lilywhites", "Both"],
+        "correctAnswer": "Spurs"
+      },
+      {
+        "question": "¿Quién es el máximo goleador en una sola temporada de la Premier League para el Tottenham?",
+        "options": ["Harry Kane", "Jurgen Klinsmann", "Teddy Sheringham"],
+        "correctAnswer": "Harry Kane"
+      },
+      {
+        "question": "¿En qué año se fundó oficialmente el Tottenham Hotspur Football Club?",
+        "options": ["1878", "1882", "1901"],
+        "correctAnswer": "1882"
+      },
+      {
+        "question": "¿Cuál es el nombre del himno del Tottenham Hotspur?",
+        "options": ["You'll Never Walk Alone", "Glory Glory Tottenham Hotspur", "Blue Moon"],
+        "correctAnswer": "Glory Glory Tottenham Hotspur"
+      },
+      {
+        "question": "¿Cuántas veces ha ganado el Tottenham la FA Cup?",
+        "options": ["7", "8", "9"],
+        "correctAnswer": "8"
+      },
+      {
+        "question": "¿Cuál es el nombre del primer equipo del Tottenham Hotspur?",
+        "options": ["Hotspur FC", "Tottenham Hotspur FC", "Tottenham FC"],
+        "correctAnswer": "Hotspur FC"
+      },
+      {
+        "question": "¿Quién es el actual presidente del Tottenham Hotspur Football Club?",
+        "options": ["Daniel Levy", "Joe Lewis", "Mauricio Pochettino"],
+        "correctAnswer": "Daniel Levy"
+      },
+      {
+        "question": "¿Cuál es el récord de asistencia en un partido del Tottenham Hotspur en el nuevo Tottenham Hotspur Stadium?",
+        "options": ["62,214", "60,316", "61,461"],
+        "correctAnswer": "61,461"
+      },
+      {
+        "question": "¿Quién fue el primer jugador del Tottenham en ganar el premio PFA Players' Player of the Year?",
+        "options": ["Gareth Bale", "Pat Jennings", "Harry Kane"],
+        "correctAnswer": "Gareth Bale"
+      },
+      {
+        "question": "¿En qué año el Tottenham Hotspur ganó su primer título de la Liga de Campeones de la UEFA?",
+        "options": ["1972", "1984", "1963"],
+        "correctAnswer": "1963"
+      }
+    ]
+  }
+  

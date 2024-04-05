@@ -1,0 +1,55 @@
+{
+    "preguntas": [
+      {
+        "question": "¿En qué año fue fundado el Manchester City Football Club?",
+        "options": ["1880", "1894", "1905"],
+        "correctAnswer": "1880"
+      },
+      {
+        "question": "¿Quién es el máximo goleador de la historia del Manchester City?",
+        "options": ["Sergio Agüero", "Eric Brook", "Tommy Johnson"],
+        "correctAnswer": "Sergio Agüero"
+      },
+      {
+        "question": "¿Cuántas veces ha ganado el Manchester City la Premier League hasta el momento?",
+        "options": ["3", "4", "5"],
+        "correctAnswer": "5"
+      },
+      {
+        "question": "¿Cuál es el apodo del estadio donde juega el Manchester City FC?",
+        "options": ["Old Trafford", "Etihad Stadium", "Anfield"],
+        "correctAnswer": "Etihad Stadium"
+      },
+      {
+        "question": "¿Quién es el actual entrenador del Manchester City?",
+        "options": ["Pep Guardiola", "Jürgen Klopp", "Carlo Ancelotti"],
+        "correctAnswer": "Pep Guardiola"
+      },
+      {
+        "question": "¿Cuál fue el año en que el Manchester City ganó su primer título de la Premier League?",
+        "options": ["2010-2011", "2011-2012", "2012-2013"],
+        "correctAnswer": "2011-2012"
+      },
+      {
+        "question": "¿Cuál es el lema del Manchester City Football Club?",
+        "options": ["Superbia in Proelio", "Pride in Battle", "We Are City"],
+        "correctAnswer": "Superbia in Proelio"
+      },
+      {
+        "question": "¿Qué jugador del Manchester City ha ganado el premio PFA Player of the Year más recientemente?",
+        "options": ["Kevin De Bruyne", "Raheem Sterling", "David Silva"],
+        "correctAnswer": "Kevin De Bruyne"
+      },
+      {
+        "question": "¿Quién fue el capitán del Manchester City durante la temporada en que ganaron la Premier League en 2018?",
+        "options": ["Vincent Kompany", "David Silva", "Sergio Agüero"],
+        "correctAnswer": "Vincent Kompany"
+      },
+      {
+        "question": "¿En qué año llegó el Manchester City a la final de la Liga de Campeones de la UEFA por primera vez?",
+        "options": ["2018", "2019", "2020"],
+        "correctAnswer": "2020"
+      }
+    ]
+  }
+  

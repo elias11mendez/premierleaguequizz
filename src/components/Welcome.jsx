@@ -1,32 +1,27 @@
-import { useNavigate } from "react-router-dom";
-
+import {  useNavigate } from "react-router-dom";
 const Welcome = () => {
   const navigate = useNavigate();
-
   const toQuiz = () => {
-    navigate("/quiz");
+    navigate("/selection");
   };
-
   return (
     <div className="flex justify-center items-center flex-col m-9 ">
-      <h1 className="text-6xl font-bold text-center text-blue-500 flex justify-center">
+      <h1 className="text-6xl font-bold text-center text flex justify-center">
         BIENVENIDO
       </h1>
-      <p className="text-2xl mt-20 font-bold text-center">
-        A ESTE QUIZ DE PREGUNTAS Y RESPUESTAS DEL MANCITY
+      <p className="text-2xl mt-20 font-semibold text-center">
+        A ESTE QUIZZ DEL BIX SIX
       </p>
-      <div className="m-20">
-        <button
+      <p className="text-2xl mt-10">Clic en Iniciar... </p>
+      <div className="m-10">
+       <button
           onClick={toQuiz}
-          className="bg-blue-500 w-60 h-10 rounded-md hover:bg-yellow-200"
+          className="bg-purple-900 w-60 h-10 rounded-md hover:bg-white hover:text-black"
         >
           INICIAR
         </button>
       </div>
-      <img
-        className="w-40"
-        src="https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"
-      ></img>
+      <img className="bg-white w-52 h-52 rounded-full" src="https://dorve.com/wp-content/uploads/2023/08/overlap-premier-league-logo.png"/>
     </div>
   );
 };

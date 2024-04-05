@@ -1,0 +1,54 @@
+{
+  "preguntas": [
+    {
+      "question": "¿Cuál es el apodo del Liverpool Football Club?",
+      "options": ["The Reds", "The Blues", "The Citizens"],
+      "correctAnswer": "The Reds"
+    },
+    {
+      "question": "¿Quién es el máximo goleador de la historia del Liverpool en competiciones oficiales?",
+      "options": ["Ian Rush", "Steven Gerrard", "Kenny Dalglish"],
+      "correctAnswer": "Ian Rush"
+    },
+    {
+      "question": "¿En qué año fue fundado oficialmente el Liverpool Football Club?",
+      "options": ["1888", "1892", "1902"],
+      "correctAnswer": "1892"
+    },
+    {
+      "question": "¿Cuál es el nombre del himno del Liverpool Football Club?",
+      "options": ["You'll Never Walk Alone", "Glory Glory Liverpool", "Blue Moon"],
+      "correctAnswer": "You'll Never Walk Alone"
+    },
+    {
+      "question": "¿Cuántas veces ha ganado el Liverpool la Liga de Campeones de la UEFA hasta el momento?",
+      "options": ["5", "6", "7"],
+      "correctAnswer": "6"
+    },
+    {
+      "question": "¿Quién fue el entrenador del Liverpool FC durante la temporada 2019-2020 en la que ganaron la Premier League?",
+      "options": ["Jurgen Klopp", "Rafael Benitez", "Brendan Rodgers"],
+      "correctAnswer": "Jurgen Klopp"
+    },
+    {
+      "question": "¿Cuál es el lema del Liverpool Football Club?",
+      "options": ["You'll Never Walk Alone", "This Means More", "Reds Forever"],
+      "correctAnswer": "You'll Never Walk Alone"
+    },
+    {
+      "question": "¿Quién fue el último jugador del Liverpool en ganar el premio PFA Players' Player of the Year?",
+      "options": ["Mohamed Salah", "Virgil van Dijk", "Sadio Mané"],
+      "correctAnswer": "Mohamed Salah"
+    },
+    {
+      "question": "¿Quién fue el capitán del Liverpool durante la temporada en que ganaron la Liga de Campeones de la UEFA en 2005?",
+      "options": ["Steven Gerrard", "Jamie Carragher", "Xabi Alonso"],
+      "correctAnswer": "Steven Gerrard"
+    },
+    {
+      "question": "¿En qué año el Liverpool ganó su primer título de la Liga de Campeones de la UEFA?",
+      "options": ["1977", "1978", "1979"],
+      "correctAnswer": "1977"
+    }
+  ]
+}

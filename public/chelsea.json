@@ -1,0 +1,55 @@
+{
+    "preguntas": [
+      {
+        "question": "¿En qué año fue fundado el Chelsea Football Club?",
+        "options": ["1902", "1905", "1910"],
+        "correctAnswer": "1905"
+      },
+      {
+        "question": "¿Quién es el máximo goleador de la historia del Chelsea?",
+        "options": ["Frank Lampard", "Bobby Tambling", "Didier Drogba"],
+        "correctAnswer": "Frank Lampard"
+      },
+      {
+        "question": "¿Cuántas veces ha ganado el Chelsea la Premier League hasta el momento?",
+        "options": ["4", "5", "6"],
+        "correctAnswer": "6"
+      },
+      {
+        "question": "¿Cuál es el apodo del estadio donde juega el Chelsea FC?",
+        "options": ["Anfield", "Stamford Bridge", "Old Trafford"],
+        "correctAnswer": "Stamford Bridge"
+      },
+      {
+        "question": "¿Quién es el actual entrenador del Chelsea?",
+        "options": ["Thomas Tuchel", "Frank Lampard", "Antonio Conte"],
+        "correctAnswer": "Thomas Tuchel"
+      },
+      {
+        "question": "¿Cuál fue el año en que el Chelsea ganó su primer título de la Premier League?",
+        "options": ["2004-2005", "2005-2006", "2009-2010"],
+        "correctAnswer": "2004-2005"
+      },
+      {
+        "question": "¿Cuál es el lema del Chelsea Football Club?",
+        "options": ["Keep the Blue Flag Flying High", "We Are the Blues", "Blue is the Colour"],
+        "correctAnswer": "Keep the Blue Flag Flying High"
+      },
+      {
+        "question": "¿Qué jugador del Chelsea ha ganado el premio PFA Player of the Year más recientemente?",
+        "options": ["Eden Hazard", "N'Golo Kanté", "Mohamed Salah"],
+        "correctAnswer": "Eden Hazard"
+      },
+      {
+        "question": "¿Quién fue el capitán del Chelsea durante la temporada en que ganaron la Liga de Campeones de la UEFA en 2012?",
+        "options": ["John Terry", "Frank Lampard", "Didier Drogba"],
+        "correctAnswer": "John Terry"
+      },
+      {
+        "question": "¿En qué año ganó el Chelsea su primer título de la Liga de Campeones de la UEFA?",
+        "options": ["2004", "2010", "2012"],
+        "correctAnswer": "2012"
+      }
+    ]
+  }
+  
