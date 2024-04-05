@@ -1,3 +1,6 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithub } from '@fortawesome/free-brands-svg-icons';
+
 import {  useNavigate } from "react-router-dom";
 const Welcome = () => {
   const navigate = useNavigate();
@@ -5,7 +8,8 @@ const Welcome = () => {
     navigate("/selection");
   };
   return (
-    <div className="flex justify-center items-center flex-col m-9 ">
+    <div className="flex justify-center items-center flex-col m-2 ">
+<FontAwesomeIcon href='https://gi thub.com/elias11mendez' className='ml-auto pb-7 h-8' icon={faGithub} />
       <h1 className="text-6xl font-bold text-center text flex justify-center">
         BIENVENIDO
       </h1>
@@ -20,8 +24,13 @@ const Welcome = () => {
         >
           INICIAR
         </button>
+
+
       </div>
+      
       <img className="bg-white w-52 h-52 rounded-full" src="https://dorve.com/wp-content/uploads/2023/08/overlap-premier-league-logo.png"/>
+            {/* <FontAwesomeIcon className='ml-auto pb-7 h-8' icon={faGithub} /> */}
+
     </div>
   );
 };
